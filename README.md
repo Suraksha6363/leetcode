@@ -15,6 +15,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Suraksha6363/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Suraksha6363/leetcode/tree/master/0229-majority-element-ii) |
+| [0493-reverse-pairs](https://github.com/Suraksha6363/leetcode/tree/master/0493-reverse-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Suraksha6363/leetcode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Suraksha6363/leetcode/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -47,4 +49,28 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Suraksha6363/leetcode/tree/master/0062-unique-paths) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Suraksha6363/leetcode/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Suraksha6363/leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Suraksha6363/leetcode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Suraksha6363/leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Suraksha6363/leetcode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Suraksha6363/leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
