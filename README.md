@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Suraksha6363/leetcode/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/Suraksha6363/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Suraksha6363/leetcode/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/Suraksha6363/leetcode/tree/master/0493-reverse-pairs) |
@@ -75,4 +76,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Suraksha6363/leetcode/tree/master/0493-reverse-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Suraksha6363/leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
